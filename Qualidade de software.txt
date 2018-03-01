@@ -1,0 +1,274 @@
+GOVERNANCIA DE TI - (Realiza as boas praticas)
+
+ é entendida como uma forma de solucionar problemas de alinhamento organizacional em T.i
+
+  °  onde é um conjunto de ações como , politicas , normas , processos e procedimentos 
+     que em conjunto vai segurar para a alta adm da empresa que o grupo de ti que esta realizando
+     todos os passos alinhados para um bom desempenho , 
+     com planejamento e entrega de beneficio como os portfolios de projeto etc ...
+     Tendo otimização de recurso e monitoramento para controlar as ações.
+  
+     A Governança de TI tem o papel de criar estes controles de forma que a TI trabalhe de uma maneira 
+     o mais transparente possível perante os stakeholders com o sentido de saber bem se comunicar com os outros, 
+     a fim de estabelecer metas e obter resultados positivos
+
+     Pois sem esse alinhamento de informações você não terá um escopo
+     definido para controlar , ou seja está sujeito a falhas
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GOVERNANCIA CORPORATIVA - (QUAIS PRATICAS SE DEVE UTILIZAR NO PLANEJAMENTO QUE PRECISA SER FEITO)
+
+Ela existe para segurar os Acionistas(Partes interessadas) que os Gestores de governancia de Ti
+Vão realizar tarefas que os Acionistas gostaria que fosse feito , como monitorar a empresa , eliminar risco
+realizar uma estrategica de efeciencia para gerar lucros;
+
+Governancia Corporativa têm a finalidade de aumentar o valor da sociedade, 
+facilitar seu acesso ao capital e contribuir para a sua perenidade
+
+SOX  Sarbanes-Oxley- onde os executivos de empresas ão responsabilizados 
+criminalmente por desvios nas demonstrações financeiras
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Governancia Corporativa vs Governacia de Ti
+
+A governancia de Ti vai tonar viavel a eficiencia do trabalho  e vai assegurar para os
+gestores executivos que os gestores Ti estão realizando tudo que é possivel para ter desempenhos
+
+E
+
+A Governancia corporativa vai direcionar  o'que deve ser feito
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ITIL - (Information Technology Infrastructure Library) - 
+É UMA BIBLIOTECA DE BOAS PRATICAS DE TI , Que nos ensina como gerenciar
+um departamento de tecnologia para poder atingir os objetivos que queremos ou cliente final
+
+Você necessita transformar o objetivo de negocio ou ter objetivos estrategicos
+para chegar nas medidas de operações incluindo a politica , para a equipe operar todas
+as ideias e soluções bem projetadas para o usuario final
+
+5 Premissas sobre ITIL 
+
+- ° Estrategia de serviço - Consiste em levantar informações da empresa e criar estrategicas baseadas nessa informações
+- ° Desenho de serviço - Deve se levantar os objetivos pretendidos e quais recursos que você precisa para que eles sejam alcançados(Em termos de software , Hardware e pessoas)
+- ° Transição de Serviço - Onde é orientado nos desenvolvimentos dos recursos para a implementação de entrega de serviço
+- ° Operação do serviço - Onde são entregue os valores e serviços ao cliente , garantindo a eficiencia nos processos da sua empresa
+- ° Melhoria continua - você deve identificar os pontos positivos e os pontos que devem ser melhorado e quais as ações coletiva que sua equipe deve executar para ter um valor maior ao negocio
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+COBIT  (Control Objectives for Information and Related Technologies) - É um framework corporativo para informação e tecnologia relacionada
+
+Um guia de boas praticas apresentado como framework , que busca a ajudar as organizações na entrega de projetos na governancia de ti
+
+Pode ser governada de forma  holística sempre abranjendo os objetivos de ponta a ponta
+ele busca ter as partes interessadas do projeto (stakeholders).
+
+Ele permite ter o maior controle sobre suas atividades , para o alcance de objetivos de negocio
+
+5 Principios do cobit
+
+1 - Atender as partes interessadas - Objetivos de governancia com criação de valores contendo Beneficios , Otimização de risco e Otimização de recursos atendendo as normais de regulamento
+2 - Cobrir a empresa de ponta a ponta - Gerir informações de negocio tendo habilidades da governaça e escopo para a criação de valor
+3 - Aplicar um frame unico e integrado
+4 - permitir uma abordagem holistica
+5 - Distinguir a governança da gestão
+
+
+ROI - Retorno de investimento
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISO -  International Standardization Organization (Organização Internacional de Normalização).
+
+Em outras palavras, é uma padronização de produtos e serviços, utilizando determinadas normas para que a qualidade seja melhorada.
+
+Objetivo :  fornecer regularmente produtos e serviços que atendam às necessidades e as expectativas de seus clientes, 
+	e que estão em conformidade com as leis e regulamentos aplicáveis.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Qualidade de Produto de Software - 
+
+Para se atingir a qualidade , deve se passar por fases de ajuste tanto tecnologico , como organizacional baseando-se nas regulamentação da ISO 
+pois qualidade de software não se atinge de forma espontânea.
+
+A qualidade do software basea-se na ISO 12207 que consiste em tratar o Ciclo de vida ou seja
+Definem etapas ou fases a serem cumpridas para que o desenvolvimento de software ocorra de forma alinhada,
+organizada, progressiva, compreensível e gerenciável  que
+alcance as expectativas de seus idealizadores e  que permita estabelecer e avaliar requisitos de qualidade; e
+O processo de avaliação seja bem definido e estruturado.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Qualidade de SW é 
+
+uma simples conversa que atende necessidades da empresa ou pessoa ,
+como a redução de custo para a empresa , evitando retrabalho baseando-se na simpliscidade seguindo padrões 
+de qualidade  para atender as expectativas de seus clientes conforme os regulamentos aplicaveis tendo
+melhoramento continuo
+
+-----------------------------------------------------------------------------------------------------------
+ISO/IEC 12207: Tecnologia de informação – Processos de ciclo de vida de software 
+
+
+  Ciclo de vida
+
+  Conceito 
+  Desenvolvimento
+  implementacao
+  Treinamento
+
+- Analise de requisitos
+- Caso de uso
+- Regra de negocio
+- Prototipo
+- Desenvolvimento
+
+Descreve a arquitetura dos processos de ciclo de vida de
+software, mas não especifica os detalhes de como
+implementar ou executar as atividades e tarefas incluídas
+nos processos.
+
+Processos da ISO
+
+1° Fundamentais: constituem um conjunto de processos que atendem às partes fundamentais (pessoa ou organização / adquirente, fornecedora, desenvolvedora, operadora ou
+mantenedora do software). 
+
+2° De Apoio: auxiliam um outro processo e contribuem para o Qualidade de Software Sucesso e qualidade do projeto.
+
+======================================================================================================================
+
+ISO 8402 - Define termos fundamentais relativos aos conceitos da qualidade, aplicáveis a todas as áreas, para a elaboração 
+                    e utilização de normas sobre qualidade e para entendimento mútuo nas comunicações nacionais e internacionais.
+
+======================================================================================================================
+ISO 9126-1 -  ela define um conjunto de parâmetros com o objetivo de padronizar a avaliação da qualidade de software
+                       que tem como objetivo avaliar a qualidade, bem como as suas características, sub características e atributos. 
+                       Este é o objetivo da ISO 9126.
+
+	     - uma vez que desde o levantamento de requisitos até a fase de produção, 
+	       os fatores que atendem ao que o cliente precisa devem estar em evidência, 
+	       bem como o feedback para melhoria e É utilizada como referência para o processo de avaliação de qualidade de produto de software
+
+	      Atributos fundamentais
+
+	     1 ° . Funcionalidade  - Define o grau com que o software satisfaz às funcionalidades estabelecidas. 
+	
+	          	                  Envolve: 
+
+		          Adequação: as funcionalidades satisfazem as  necessidades
+	                            Acurácia: o quanto o software é exato em seus resultados
+                                              Segurança: capacidade do software proteger as informações
+
+
+	     2 ° . Confiabilidade - Define a capacidade de um software manter suas capacidades operacionais, dentro do desempenho estabelecido. 
+
+			Envolve:
+
+			Maturidade: o quanto o software se encontra livre de defeitos
+			Tolerância  a falhas: capacidade de manter um nível operacional adequado, mesmo quando falhas ocorram.
+			Recuperabilidade: capacidade de manter a integridade dos dados e reestabelecer seu nível operacional no caso de falha.
+
+
+	     3 °.  Usabilidade - Define o esforço que deve ser despendido pelo usuário no processo de aprendizagem e operação do software. 
+
+			Envolve:
+
+			Inteligibilidade: facilidade de compreender as funcionalidades do software e se este atende às necessidades do usuário.
+			Operacionalidade: especifica o esforço que deve  ser dispendido pelo usuário para operar o software.
+
+
+	     4 ° . Eficiência Determina a relação entre a quantidade de  recursos que devem ser direcionados para a  operação do software, os tempos 
+	            envolvidos nesta operação e os resultados obtidos. 
+			
+			Envolve: 
+
+			Comportamento em relação ao tempo : avalia se o tempo de resposta às solicitações enviadas ao software estão dentro dos critérios preestabelecidos.
+			Comportamento em relação aos recursos : avalia a quantidade de recursos que devem ser disponibilizados para a operação do  software
+
+
+
+	      5° . Manutenibilidade - Estabelece a  capacidade que um software possui em sofrer alterações. (manutenabilidade)
+		
+			Envolve: 
+
+			Estabilidade: risco da ocorrência de feitos não esperados decorrentes de alterações no software.
+			Testabilidade:  quantidade de esforço que deve ser dispendida para validar as alterações realizadas no software.
+
+
+	     6 °. Portabilidade - Estabelece a  capacidade que um software possui de ser transferido de um ambiente operacional para outro. 
+
+			Envolve:
+ 
+			Adaptabilidade: capacidade que um software possui de se  adaptar a diferentes ambientes operacionais.
+			Coexistência: capacidade que um software possui em operar de modo simultâneo com outras aplicações
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+							               01/03/2018
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CMMI (Capability Maturity Model Integration) Modelo de maturidade para o sistema
+
+é um conjunto de modelos a serem seguidos baseado em processos de ciclo de vida para identificar a melhor maneira de se realizar e chegar ao objetivo
+para identificar as melhores praticas.
+
+Graus de maturidade são niveis de melhoria continua
+
+1 - Ad-hoc - Ele é feito sobre demanda , pois ele nao tem um fluxo de processo desenhado
+
+
+2 - Processos disciplinados - Algo que já foi testado e documentado para ser seguido como referencia, e pode ser repetido
+
+   KPA'S
+
+   * Gestão de requisitos é uma documentação padronizada pois ele é repetitivo
+   * Planejamento de projeto é Gerenciamento de escopo
+   *
+   * Gestão da configuração , quando você configura o ambiente ex: Projeto feito em jpa , oracle , e IDE Eclipse
+
+
+3 - Processo padronizados - Series de documentos e processos que já estão rodando
+
+   KPA'S
+   
+   * Metodologia é um conjunto de regras
+
+   * Revisões periodicas é Buscar a melhoria
+   * Coordenacao de intergrupos , Equipes se relacionam entre si , trocam informações
+   * Engenharia de Produto SW - Seguir metodologia
+   * Programa de treinamento - Mostrar certificações para validar a empresa em si
+   * Definição do processo da organização
+   * Foco no processo da organização
+    
+
+4 - Nivel gerenciado - Onde você tem mais controle e consegue identificar os problemas , sabendo se meu processo é eficiente ou nao
+    
+    * Gestão da qualidade de SW - Onde você pega padroes de desenvolvimento e aplicam para atingir a qualidade
+    * Gestão quantitativa - Verificar se os processos que esta sendo repetitivo é instavel para garantir a execução do mesmo
+
+
+5 - Nivel Otimizado - Processos que buscam melhoria continuam
+
+
+
+KPA - Analisa os processos e melhoria continua dos processos de desenvolvimento de software
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gestão do conhecimento : estão nas cabeças das pessoas por isso nao pode haver discriminação por niveis de CMMI em uma empresa
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Processo : uma sequência de passos realizados para um determinado propósito
+Processo de software :  é um conjunto de atividades, ações e tarefas, realizadas de modo organizado e estruturado, com a finalidade de produzir software.
+
+SLA Level Agreement (Acordo de Nível de Serviço)
+
+    - especificará, em termos mensuráveis e claros, quais os serviços e o suporte que o fornecedor terá que oferecer até o final do contrato. 
+      A partir dele são estabelecidas metas de nível de serviço, prazos contratuais e termos de compromisso que ajudam o contratante a 
+      monitorar o trabalho realizado pelo contratado.
+
+     * usado para mensurar e monitorar o desempenho de um fornecedor.

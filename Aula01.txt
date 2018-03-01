@@ -1,0 +1,13 @@
+
+A qualidade de software estabelece uma padrão , e 
+empresas adotam um padrão já existente onde elas buscam referencia
+onde você deve presar pela a qualidade para evitar retrabalho em seu desenvolvimento
+
+° Qualidade é ..
+
+° empirismo é realizar suas tarefas simultaneamente ate acertar
+
+ITIL - boas praticas de itil
+COBIT - boas praticas de cobit
+
+PMI - MELHORES PRATICAS DE DESENVOLVIMENTO
