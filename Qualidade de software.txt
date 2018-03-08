@@ -171,7 +171,7 @@ ISO 9126-1 -  ela define um conjunto de parâmetros com o objetivo de padronizar 
 
 			Maturidade: o quanto o software se encontra livre de defeitos
 			Tolerância  a falhas: capacidade de manter um nível operacional adequado, mesmo quando falhas ocorram.
-			Recuperabilidade: capacidade de manter a integridade dos dados e reestabelecer seu nível operacional no caso de falha.
+			Recuperabilidade: capacidade de manter a integridade dos dados e reestabelecer seu nível operacional ~T no caso de falha.
 
 
 	     3 °.  Usabilidade - Define o esforço que deve ser despendido pelo usuário no processo de aprendizagem e operação do software. 
@@ -212,7 +212,7 @@ ISO 9126-1 -  ela define um conjunto de parâmetros com o objetivo de padronizar 
 							               01/03/2018
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-CMMI (Capability Maturity Model Integration) Modelo de maturidade para o sistema
+CMMI (Capability Maturity Model Integration) Modelo de maturidade para o sistema , SÃO BOAS PRATICAS DA QUALIDADE DE SW
 
 é um conjunto de modelos a serem seguidos baseado em processos de ciclo de vida para identificar a melhor maneira de se realizar e chegar ao objetivo
 para identificar as melhores praticas.
@@ -232,7 +232,7 @@ Graus de maturidade são niveis de melhoria continua
    * Gestão da configuração , quando você configura o ambiente ex: Projeto feito em jpa , oracle , e IDE Eclipse
 
 
-3 - Processo padronizados - Series de documentos e processos que já estão rodando
+3 - Processo padronizados(Em busca de qualidade) - Series de documentos e processos que já estão rodando
 
    KPA'S
    
@@ -246,17 +246,17 @@ Graus de maturidade são niveis de melhoria continua
    * Foco no processo da organização
     
 
-4 - Nivel gerenciado - Onde você tem mais controle e consegue identificar os problemas , sabendo se meu processo é eficiente ou nao
+4 - Nivel gerenciado - Onde você tem mais controle e consegue identificar os problemas buscando melhoridas, sabendo se meu processo é eficiente ou nao
     
     * Gestão da qualidade de SW - Onde você pega padroes de desenvolvimento e aplicam para atingir a qualidade
     * Gestão quantitativa - Verificar se os processos que esta sendo repetitivo é instavel para garantir a execução do mesmo
 
 
-5 - Nivel Otimizado - Processos que buscam melhoria continuam
+5 - Nivel Otimizado - Processos que buscam melhoria continuam que acaba se tornando referencia para outras
 
 
 
-KPA - Analisa os processos e melhoria continua dos processos de desenvolvimento de software
+KeyProcessArea(KPA) - Analisa os processos e melhoria continua dos processos de desenvolvimento de software
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Gestão do conhecimento : estão nas cabeças das pessoas por isso nao pode haver discriminação por niveis de CMMI em uma empresa
@@ -272,3 +272,31 @@ SLA Level Agreement (Acordo de Nível de Serviço)
       monitorar o trabalho realizado pelo contratado.
 
      * usado para mensurar e monitorar o desempenho de um fornecedor.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+								08/03/18
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Modelo de referencia - USADA PARA SEGUIR UM PADRÃO,  Para se ter uma base do que realizar em alguma ocasião especifica 
+		       ou é aquele que tem praticas procedimentos que devem ser referenciados
+
+
+ - CMMI -  Modelo de maturidade para o sistema
+ - MPS.BR - MELHORIA DE PROCESSOS DE SW BRASILEIRO
+ - SPICE - DETERMINAÇÃO DE MELHORIA DE SW
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ - INDICADOR É TUDO AQUILO QUE DA PARA SER MEDIDO
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ MPS.BR  MELHORIA DE PROCESSOS DE SW BRASILEIRO
+
+
+
+ NIVEL A - Em Otimização : 
+ NIVEL B - GERENCIAMENTO QUANTITATIVAMENTE: TODOS PROCESSOS SAO GERENCIADOS , MAS NAO GARANTE QUALIDADE INDEPENDETE DA QUANTIDADE DO PROJETO
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ 
