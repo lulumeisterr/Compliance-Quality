@@ -296,6 +296,36 @@ Modelo de referencia - USADA PARA SEGUIR UM PADRÃO,  Para se ter uma base do que
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+									15/03/18
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+								      Metodologia Agil
+
+						Ela usa o principio de realizar suas tarefas por partes.
+
+Processo desenvolvimento Agil - São ciclos menores que produzem em escalas , onde o cliente vê e o produto e vai tomando forma durante os ciclos , 
+onde os cliente participam e contribuem para um bom desenvolvimento , eu vou realizando este ciclo ate que todos sejam encerrados , cada ciclo
+representa um produto final desta fase. ( Ou seja vou incremento e tendo iteração nas entregas ate o fim do ciclo para a entrega final )
+
+* o Agil faz uma minimização de risco , e tem uma flexibilidade para se adequar as mudanças para que eu atenda meu cliente
+
+
+Metodologia Agil é orientada a valor - 
+
+Quality Assurance - 
+
+===========================================================================================================================================================
+
+Processo desenvolvimento WaterFal - Realizando em sequencia ou seja por fases ciclos de vida
+
+
+- Foco no beneficio 
+- Dividido por sprint - Ele é dividido por Periodo de entregas
+
+
+
+
 
 
 
