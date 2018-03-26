@@ -1,0 +1,32 @@
+Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW , Que usa uma abordagem de 
+Planejamento e excecução iterativa e incremental voltada para processos empiricos. 
+Que divide o problema em produtos menores que visa entregar o SW funcionando regularmente
+
+Ou Seja a metodologia agil pega um processo empirico e divide esse projeto em pequenas partes que acabam facilitando o dev.
+Onde o produto é entregue em forma tematica , custo tempo de desenvolvimento  , determinados pelo valor de cada funcionalidade
+
+Processos empiricos - são processos caóticos , ou processos com muita incerteza que tem mudanças constantes ao longo do processo
+que não sao repetitiveis e são imprevisiveis;
+
+Metodologias existentes
+
+Scrum
+Kanban
+RUP
+XP
+OpenUP
+
+12 Principios do manifesto agil
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
