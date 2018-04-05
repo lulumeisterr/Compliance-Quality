@@ -8,6 +8,17 @@ cliente. Ou seja pegamos o projeto e dividimos em modulos para ir exibindo ao cl
 de escopo pois o cliente vai acompanhando o desenvolvimento e se há uma tentativa de mudança o cliente(ProductOwner) que detalhará para você. Onde nós temos o Product Backlog que realizará uma divisão por parte que virará uma sprint. é a Agil calcula os pontos
 de esforços no trabalho.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ROADMAPING
+
+Cada tarefa deverá ser realiza para avançar para a proxima etapa
+
+1 ° Tudo que precisa conter no prjeto
+2 ° Tudo oque eu tenho que entregar
+3 ° Associa-se nas historias de usuario e determinação da sprint
+4 ° Atribuir os pontos na sprints
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW , Que usa uma abordagem de 
 Planejamento e excecução iterativa e incremental voltada para processos empiricos. 
