@@ -1,12 +1,23 @@
-Metodologia  �geis - Ela � uma nova forma de gest�o e desenvolvimento de SW , Que usa uma abordagem de 
-Planejamento e excecu��o iterativa e incremental voltada para processos empiricos. 
+
+
+Agil é
+
+Uma forma de você ficar mais proximo do cliente para o trabalho ser eficiente , onde existe uma
+equipe que exige uma completa comunicação. Onde temos entregas por partes em um prazo definido junto com o
+cliente. Ou seja pegamos o projeto e dividimos em modulos para ir exibindo ao cliente para ter feedbacks na mudança
+de escopo pois o cliente vai acompanhando o desenvolvimento e se há uma tentativa de mudança o cliente(ProductOwner) que detalhará para você. Onde nós temos o Product Backlog que realizará uma divisão por parte que virará uma sprint. é a Agil calcula os pontos
+de esforços no trabalho.
+
+
+Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW , Que usa uma abordagem de 
+Planejamento e excecução iterativa e incremental voltada para processos empiricos. 
 Que divide o problema em produtos menores que visa entregar o SW funcionando regularmente
 
 Ou Seja a metodologia agil pega um processo empirico e divide esse projeto em pequenas partes que acabam facilitando o dev.
-Onde o produto � entregue em forma tematica , custo tempo de desenvolvimento  , determinados pelo valor de cada funcionalidade
+Onde o produto é entregue em forma tematica , custo tempo de desenvolvimento  , determinados pelo valor de cada funcionalidade
 
-Processos empiricos - s�o processos ca�ticos , ou processos com muita incerteza que tem mudan�as constantes ao longo do processo
-que n�o sao repetitiveis e s�o imprevisiveis;
+Processos empiricos - são processos caóticos , ou processos com muita incerteza que tem mudanças constantes ao longo do processo
+que não sao repetitiveis e são imprevisiveis;
 
 Metodologias existentes
 
