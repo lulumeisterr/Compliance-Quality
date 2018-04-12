@@ -11,6 +11,8 @@ de esforços no trabalho.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ROADMAPING
 
+User Story : Utilizamos para montar sprints , taskcards e utilizamos para resolver o problema do usuario
+
 Cada tarefa deverá ser realiza para avançar para a proxima etapa
 
 1 ° Tudo que precisa conter no prjeto
@@ -52,3 +54,10 @@ OpenUP
 10
 11
 12
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Realease plan - Plano de planejamento do meu projeto ,Apatir do realease começaremos a fazer as sprints , mas só se inicializa uma
+sprint por vez.
+
+
