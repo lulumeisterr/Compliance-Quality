@@ -8,17 +8,7 @@ cliente. Ou seja pegamos o projeto e dividimos em modulos para ir exibindo ao cl
 de escopo pois o cliente vai acompanhando o desenvolvimento e se há uma tentativa de mudança o cliente(ProductOwner) que detalhará para você. Onde nós temos o Product Backlog que realizará uma divisão por parte que virará uma sprint. é a Agil calcula os pontos
 de esforços no trabalho.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ROADMAPING
-
-User Story : Utilizamos para montar sprints , taskcards e utilizamos para resolver o problema do usuario
-
-Cada tarefa deverá ser realiza para avançar para a proxima etapa
-
-1 ° Tudo que precisa conter no prjeto
-2 ° Tudo oque eu tenho que entregar
-3 ° Associa-se nas historias de usuario e determinação da sprint
-4 ° Atribuir os pontos na sprints
+Métodos Ágeis seguem os modelos de ciclo de vida de desenvolvimento do tipo ‘Espiral’ ou ‘Prototipação
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -31,6 +21,37 @@ Onde o produto é entregue em forma tematica , custo tempo de desenvolvimento  ,
 
 Processos empiricos - são processos caóticos , ou processos com muita incerteza que tem mudanças constantes ao longo do processo
 que não sao repetitiveis e são imprevisiveis;
+
+
+1 - Quais as responsabilidades do time de desenvolvimento em uma equipe ágil?
+
+R: O time de desenvolvimento é responsável por ajudar no planejamento, 
+estimar as funcionalidades, 
+participar das reuniões diárias, 
+dar ideias de melhoria. E claro, desenvolver o produto.
+
+
+2 - Por que comprometimento é fundamental para uma equipe ágil?
+
+R : Uma equipe ágil se auto organiza. Mas, para que isso aconteça, 
+é necessário que a equipe esteja motivada e comprometida. Comprometimento traz qualidade.
+O grande desafio, claro, é manter todos comprometidos com o projeto.
+
+3 - O Kanban fala bastante sobre limitar trabalho em progresso. Quais as vantagens?
+
+R : Ao limitar o trabalho em progresso em cada uma das etapas, 
+    garantimos um maior fluxo entre as etapas do processo.
+    Um maior fluxo significa entregas de funcionalidades mais frequentes.
+    
+    
+4 - Na sua opinião, quais as principais diferenças entre Scrum, XP e Kanban?
+
+° Scrum é um método bastante prescritivo. Ele tem reuniões (time-boxes) bem claros, e papéis bem definidos.
+
+° XP é bem parecido com o Scrum. Mas XP entra bastante em detalhes técnicos. O método discute testes automatizados, integração contínua, programação pareada, entre outras.
+
+° Kanban é com certeza o menos prescritivo de todos. O foco da metodologia é fazer com que o processo tenha fluxo contínuo de entrega. Eliminar desperdício é outro ponto importante.
+
 
 Metodologias existentes
 
@@ -54,6 +75,54 @@ OpenUP
 10
 11
 12
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Scrum 
+
+Product Backlog - Uma lista de historias de usuarios ou requisitos priorizadas por valor de neogcio
+aquilo que tem mais valor pro produto vem primeiro. Define o'que entra e não entra no produto
+
+Sprint - iteração 
+
+Scrum Master - Facilitador do time , um lider Servidor onde ele é o responsavel principal por
+conhecer o projeto , onde ele facilita o trabalho para se ter uma melhor gestão
+
+Product Owner : Representa o Cliente , Ele que define as funcionalidades e prioriza , ele da feedback de
+todas as partes do projeto. e ele aceita ou nao tudo oq foi feito nas sprints.
+
+Time : onde possui todas as pessoas que possuem as skills necessarias para a entrega. A Equipe
+define as tarefas , estima esforço , evolui o processo etc.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gestão de incertezas : Faz com que trabalhamos de forma iterativa diminuindo os riscos , pois vamos
+tomando as decisiões na medidas que vamos aprendendo
+
+Escopo Flexivel : O Cliente pode mudar escopo ao longo do processo
+
+Entregas rapidas
+
+Mais Qualidades - Os testes nao sao feitos no final e sim continuamente
+
+Melhor visibiilidade - Para ter uma melhor colaboração da equipe nos quadros de tarefas (kaban) o
+status do processo esta sempre avista para as pessoas , o Time precisa ser unido e não separado !
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ROADMAPING
+
+User Story : Utilizamos para montar sprints , taskcards e utilizamos para resolver o problema do usuario
+
+Cada tarefa deverá ser realiza para avançar para a proxima etapa
+
+1 ° Tudo que precisa conter no prjeto
+2 ° Tudo oque eu tenho que entregar
+3 ° Associa-se nas historias de usuario e determinação da sprint
+4 ° Atribuir os pontos na sprints
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
