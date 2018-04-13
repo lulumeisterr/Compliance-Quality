@@ -12,7 +12,8 @@ Métodos Ágeis seguem os modelos de ciclo de vida de desenvolvimento do tipo �
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW , Que usa uma abordagem de 
+Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW Orientada a valor pois é entregue
+de forma tematica , visualizando o valor de cada funcionalidade. Que usa uma abordagem de 
 Planejamento e excecução iterativa e incremental voltada para processos empiricos. 
 Que divide o problema em produtos menores que visa entregar o SW funcionando regularmente
 
@@ -55,27 +56,23 @@ R : Ao limitar o trabalho em progresso em cada uma das etapas,
 
 Metodologias existentes
 
-Scrum
+Scrum {
+
+Objetivos do scrum 
+
+- Qualidade - Melhoria continua
+- Eficacia - Suas regras criam um ambiente ágil para o gerenciamento e desenvolvimento de projetos
+- Autonomia - Os times são auto gerenciáveis e nenhuma prática de Engenharia específica é prescrita
+- Controle - O produto avança em sprints de 2 a 4 semanas e os requisitos são gerenciados por um product backlog
+- Flexibilidade -Permite que times desenvolvam um conjunto de funcionalidades para serem entregues ao final de cada iteração.
+- Versabilidade - Promove a agilidade necessária para responder rapidamente a mudança de requisitos
+
+}
+
 Kanban
 RUP
 XP
 OpenUP
-
-12 Principios do manifesto agil
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Scrum 
