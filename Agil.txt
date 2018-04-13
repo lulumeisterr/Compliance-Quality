@@ -80,11 +80,12 @@ Scrum
 Product Backlog - Uma lista de historias de usuarios ou requisitos priorizadas por valor de neogcio
 aquilo que tem mais valor pro produto vem primeiro. Define o'que entra e não entra no produto
 
-Sprint - São as iterações, ou Sprints, são ciclos dos projetos, que geralmente têm duração semanal, quinzenal e mensal
+1° Sprint - São as iterações, ou Sprints, são ciclos dos projetos, que geralmente têm duração semanal, quinzenal e mensal , cada sprint
+é planejada detalhadamente antes do seu inicio , e não se planeja tudo no inicio.
 
-Sprint Backlog. Com ele saberemos quais são as funcionalidades priorizadas escolhidas, poderemos estimar e entender o que cabe na iteração, e assim começar a trabalhar naquilo que for mais importante
+1.1 - Sprint Backlog. Com ele saberemos quais são as funcionalidades priorizadas escolhidas, poderemos estimar e entender o que cabe na iteração, e assim começar a trabalhar naquilo que for mais importante
 
-Sprint planning : É o planejamento de uma iteração. É nele que definimos as histórias que serão feitas ao longo das próximas semanas.
+1.2 - Sprint planning : É o planejamento de uma iteração. É nele que definimos as histórias que serão feitas ao longo das próximas semanas.
 
 O que são iterações : Iterações são o tempo que a equipe tem para produzir algo de valor para o usuário final. É dentro do tempo da iteração que planejamos, desenvolvemos, revisamos, e melhoramos o processo. Iterações são geralmente curtas (1 a 4 semanas), para que o feedback seja frequente.
 
@@ -116,7 +117,8 @@ status do processo esta sempre avista para as pessoas , o Time precisa ser unido
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-BackLog
+BackLog - É uma lista de funcionalidades , necessidades ou desejos do cliente definido apartir de um documento.
+Cada item do backlog pode ser definido como usa user story , Requisitos Funcionais , Prototipos , Features e Wireframes
 
 1 ° Por que não detalhamos todos os requisitos do nosso Backlog?
 
