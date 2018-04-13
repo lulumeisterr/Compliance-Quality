@@ -83,7 +83,13 @@ Scrum
 Product Backlog - Uma lista de historias de usuarios ou requisitos priorizadas por valor de neogcio
 aquilo que tem mais valor pro produto vem primeiro. Define o'que entra e não entra no produto
 
-Sprint - iteração 
+Sprint - São as iterações, ou Sprints, são ciclos dos projetos, que geralmente têm duração semanal, quinzenal e mensal
+
+Sprint Backlog. Com ele saberemos quais são as funcionalidades priorizadas escolhidas, poderemos estimar e entender o que cabe na iteração, e assim começar a trabalhar naquilo que for mais importante
+
+Sprint planning : É o planejamento de uma iteração. É nele que definimos as histórias que serão feitas ao longo das próximas semanas.
+
+O que são iterações : Iterações são o tempo que a equipe tem para produzir algo de valor para o usuário final. É dentro do tempo da iteração que planejamos, desenvolvemos, revisamos, e melhoramos o processo. Iterações são geralmente curtas (1 a 4 semanas), para que o feedback seja frequente.
 
 Scrum Master - Facilitador do time , um lider Servidor onde ele é o responsavel principal por
 conhecer o projeto , onde ele facilita o trabalho para se ter uma melhor gestão
@@ -109,11 +115,23 @@ Mais Qualidades - Os testes nao sao feitos no final e sim continuamente
 Melhor visibiilidade - Para ter uma melhor colaboração da equipe nos quadros de tarefas (kaban) o
 status do processo esta sempre avista para as pessoas , o Time precisa ser unido e não separado !
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+BackLog
 
-ROADMAPING
+1 ° Por que não detalhamos todos os requisitos do nosso Backlog?
+
+R : Porque sabemos que na prática muitos dos ítens que o usuário pediu não serão feitos, ou serão mal detalhados.
+Métodos ágeis acreditam que a equipe aprende e melhora o produto ao longo do tempo. É por isso que o backlog é detalhado aos poucos, conforme o projeto avança.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ROAD MAP - Quais sao as principais funcionalidades que nós queremos entregar.
+
+O Road Map consegue nos dar uma visão da direção para onde o produto deve caminhar. ou seja
+Quais são as próximas grandes funcionalidades que vão ser construídas.
 
 User Story : Utilizamos para montar sprints , taskcards e utilizamos para resolver o problema do usuario
 
@@ -128,5 +146,12 @@ Cada tarefa deverá ser realiza para avançar para a proxima etapa
 
 Realease plan - Plano de planejamento do meu projeto ,Apatir do realease começaremos a fazer as sprints , mas só se inicializa uma
 sprint por vez.
+
+O que é o release planning?
+
+R: Release Planning é o planejamento de uma versão de um produto que o cliente
+irá utilizar. Uma release é o que entregamos após algumas iterações.
+
+O planejamento de release ajuda o time a enxergar um pouco mais longe. Entretanto, o time sabe que a chance de errar é grande e, por isso, revisa o planejamento constantemente.
 
 
