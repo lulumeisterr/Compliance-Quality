@@ -1,4 +1,7 @@
 
+Tecnocnical
+Business
+Comunication
 
 Agil é
 
@@ -114,9 +117,6 @@ Melhor visibiilidade - Para ter uma melhor colaboração da equipe nos quadros d
 status do processo esta sempre avista para as pessoas , o Time precisa ser unido e não separado !
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 BackLog - É uma lista de funcionalidades , necessidades ou desejos do cliente definido apartir de um documento.
 Cada item do backlog pode ser definido como usa user story , Requisitos Funcionais , Prototipos , Features e Wireframes
 
@@ -152,5 +152,9 @@ R: Release Planning é o planejamento de uma versão de um produto que o cliente
 irá utilizar. Uma release é o que entregamos após algumas iterações.
 
 O planejamento de release ajuda o time a enxergar um pouco mais longe. Entretanto, o time sabe que a chance de errar é grande e, por isso, revisa o planejamento constantemente.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Planing Poker - Metodo que avalia a pontuação
 
 
