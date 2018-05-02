@@ -1,24 +1,56 @@
-Analise por ponto de funçāo APF
+﻿Analise de ponto de função ( O'que é medido e considerado )
 
-benchmarks - Usar como referencia para se ter novas ideias
+é uma tecnica de medição ou um metodo de medição  de SW do padrão ISO
+que quantifica os requisitos funcionais do usuario. Ou seja definieremos a produtividade do projeto
+em relação ao tempo e custo necessario a essa produção.
 
-Ter metrica de cada projeto ex:
+Uma métrica é um conceito que nos permite fazer comparações
 
-Um analisa , Design , Gerente de projeto etc … 
-
-Cada projeto deve se medir como 
+Cada projeto deve se medir como :
 
 Entradas : Pessoal , Recursos , Insumos
-
 Saidas : Voce vai realizando as entregas por etapas
-
 Resultados : deve realizar tudo oque foi feito para avaliar a qualidade do sistema e solução.
+
+Os objetivos básicos da APF são:
+
+Medir a funcionalidade solicitada pelo usuário, antes do projeto de software, de forma a estimar seu tamanho e seu custo;
+
+Medir projetos de desenvolvimento e manutenção de software, independentemente da tecnologia utilizada na implementação, de forma a acompanhar sua evolução;
+
+Medir a funcionalidade recebida pelo usuário, após o projeto de software, de forma a verificar seu tamanho e custo, comparando-os com o que foi originalmente estimado;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tipos de medidas - Diretas e indiretas
+
+Diretas
+
+Podemos considerar como medidas diretas do processo de engenharia de software o 
+custo e o esforço aplicados no desenvolvimento e manutenção do software e do produto, 
+a quantidade de linhas de código produzidas e o total de defeitos registrados durante um determinado período de tempo. 
+
+Desvantagem : A desvantagem da medida direta é que se mede no acontecido.
+
+Vantagem : Já a medida indireta pode ser usada em fases de planejamento.
+
+
+Também podemos dividir as métricas de software,  em duas categorias : Métricas de produtividade e de qualidade. 
+
+- As métricas de produtividade se concentram na saída do processo de engenharia de software e 
+- Métricas de qualidade indicam o quanto o software atende aos requisitos definidos pelo usuário.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 APF Deve nos trazer
 
 -> Numero de profissionais
 -> Tempo estimado do projeto todo
 -> Custo de todo o projeto
+
+
+
+
+
 
 
 
