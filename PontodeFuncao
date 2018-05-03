@@ -39,7 +39,38 @@ Também podemos dividir as métricas de software,  em duas categorias : Métrica
 
 - As métricas de produtividade se concentram na saída do processo de engenharia de software e 
 - Métricas de qualidade indicam o quanto o software atende aos requisitos definidos pelo usuário.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Processo de contagem
+
+Abstratação de dados - sao funções que nos nao determinamos como são feitas.
+
+- Contar a função de dados - o'que eu faço com esses dados ex : relatorio , imprimir
+- Contar tipo de transação
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tipos de contagem
+
+Desenvolvimento - começar a desenvolver
+melhoria - realizando melhoria
+produção - Aplicao que ja esta em produção
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TER - Tipo de elemento de resgistro : Quando uma pessoa faz um pedido , ou consulta
+
+
+TED - Tipo de elemento de dado : Se o usuario digitar 1 numero da nota fiscal e listar todos os pedidos sem repetição
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Calcular a transação
+
+Escopo de contagem
+numero de transacao
+interfaces internas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 APF Deve nos trazer
 
