@@ -87,6 +87,33 @@ Prazo em dias : Quantidade de pessoas multiplicada pelas horas de trabalho = 4 *
 Gasto no projeto ate o momento 800 x 35  ( Para saber o projeto todo vc multiplicar por 5 )
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PF = 80 PT
+Esforco em H : 1600
+Prazo em day : 39
+Custo total :
+
+Saber a quantidade total de ponto de função do projeto : Para se ter um prazo estimado em Pontos de função
+
+Complexidade das entradas externa (EE) - 80 PF
+Complexidades das saidas externas (SE) - 80 PF
+Complexidades das consultas externas (CE) - 80 PF
+Arquivos Logicos internos (ALI) = 80PF
+Arquivos de interface interna  (AIE) 80 PF = 400
+
+Saber em horas em APF : Total do projeto 
+
+
+Faco o total de horas * o total de pessoas = 225,5 horas e multiplico por 6 e multiplico por Valores de horas trabalhadas = 47.95 e faço * 60 que é total de horas trabalhadas pelo gerente.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
 APF Deve nos trazer
 
 -> Numero de profissionais
