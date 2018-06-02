@@ -1,3 +1,16 @@
+Waterfall vs Agil
+
+Waterfall - são entregas em camdas onde nao possibilita a volta por partes caso aja mudanças de escopo
+ou seja o produto apresenta somente um ciclo. ou seja 
+Os metodos classicos seguem o modelo de desenvolvimento do tipo cascata ou incremental onde o tradicional
+que é o waterfall segue um padrao orientado ao plano onde o tempo e o custo varia de acordo com o escopo.
+
+Agil - é um desenvolvimento feito por partes onde vc tras o cliente para mais proximo de voce e torna o 
+projeto mais flexivel para ambos pondendo sim voltar ate que aquele aspecto seja resolvido para ter
+melhorias continua no produto. ou seja Os metodos ageis seguem o padrao de desenvolvimento de prototipo ou espiral
+
+
+
 
 Tecnocnical
 Business
