@@ -8,25 +8,23 @@ que é o waterfall segue um padrao orientado ao plano onde o tempo e o custo var
 Agil - é um desenvolvimento feito por partes onde vc tras o cliente para mais proximo de voce e torna o 
 projeto mais flexivel para ambos pondendo sim voltar ate que aquele aspecto seja resolvido para ter
 melhorias continua no produto. ou seja Os metodos ageis seguem o padrao de desenvolvimento de prototipo ou espiral
+onde o produto é entregue de forma tematica medida a custo e tempo de densenvolvimento pelo valor de cada funcionalidade.
 
+Metodos classicos 
 
-
-
-Tecnocnical
-Business
-Comunication
+RUP - define a distribuição de responsabilidades para realizar os diversos tipos 
+de atividades envolvidas no desenvolvimento do software
 
 Agil é
 
 Uma forma de você ficar mais proximo do cliente para o trabalho ser eficiente , onde existe uma
 equipe que exige uma completa comunicação. Onde temos entregas por partes em um prazo definido junto com o
 cliente. Ou seja pegamos o projeto e dividimos em modulos para ir exibindo ao cliente para ter feedbacks na mudança
-de escopo pois o cliente vai acompanhando o desenvolvimento e se há uma tentativa de mudança o cliente(ProductOwner) que detalhará para você. Onde nós temos o Product Backlog que realizará uma divisão por parte que virará uma sprint. é a Agil calcula os pontos
-de esforços no trabalho.
+de escopo pois o cliente vai acompanhando o desenvolvimento e se há uma tentativa de mudança o cliente(ProductOwner) que detalhará para você. Onde nós temos o Product Backlog que realizará uma divisão por parte que virará uma sprint. é a Agil calcula os pontos de esforços no trabalho.
 
 Métodos Ágeis seguem os modelos de ciclo de vida de desenvolvimento do tipo ‘Espiral’ ou ‘Prototipação
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metodologia  Ágeis - Ela é uma nova forma de gestão e desenvolvimento de SW Orientada a valor pois é entregue
 de forma tematica , visualizando o valor de cada funcionalidade. Que usa uma abordagem de 
@@ -43,9 +41,8 @@ que não sao repetitiveis e são imprevisiveis;
 1 - Quais as responsabilidades do time de desenvolvimento em uma equipe ágil?
 
 R: O time de desenvolvimento é responsável por ajudar no planejamento, 
-estimar as funcionalidades, 
-participar das reuniões diárias, 
-dar ideias de melhoria. E claro, desenvolver o produto.
+estimar as funcionalidades, participar das reuniões diárias, dar ideias de melhoria. 
+E claro, desenvolver o produto.
 
 
 2 - Por que comprometimento é fundamental para uma equipe ágil?
@@ -69,10 +66,14 @@ R : Ao limitar o trabalho em progresso em cada uma das etapas,
 
 ° Kanban é com certeza o menos prescritivo de todos. O foco da metodologia é fazer com que o processo tenha fluxo contínuo de entrega. Eliminar desperdício é outro ponto importante.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metodologias existentes
 
 Scrum {
+
+é um framework no qual as pessoas podem resolver os problemas complexos de forma adaptativa , produtiva e criativa
+para se obter uma boa entrega de alto valor.
 
 Objetivos do scrum 
 
@@ -89,58 +90,64 @@ Kanban
 RUP
 XP
 OpenUP
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Scrum 
 
-Product Backlog - Uma lista de historias de usuarios ou requisitos priorizadas por valor de neogcio
-aquilo que tem mais valor pro produto vem primeiro. Define o'que entra e não entra no produto
+Product Backlog - Uma lista de User story(historias de usuarios) ou requisitos priorizadas por valor de neogcio
+aquilo que tem mais valor pro produto vem primeiro. Define o'que entra e não entra no produto ou seja
+Definir os requisitos do produto. ou seja uma user story é um depoimento do usuario do que ele realmente quer.
 
-1° Sprint - São as iterações, ou Sprints, são ciclos dos projetos, que geralmente têm duração semanal, quinzenal e mensal , cada sprint
-é planejada detalhadamente antes do seu inicio , e não se planeja tudo no inicio.
+º BackLog - É uma lista de funcionalidades , necessidades ou desejos do cliente definido apartir de um documento.
+  Cada item do backlog pode ser definido como usa user story , 
+  Requisitos Funcionais , Prototipos , Features e Wireframes
+  
+° Por que não detalhamos todos os requisitos do nosso Backlog?
 
-1.1 - Sprint Backlog. Com ele saberemos quais são as funcionalidades priorizadas escolhidas, poderemos estimar e entender o que cabe na iteração, e assim começar a trabalhar naquilo que for mais importante
+R : Porque sabemos que na prática muitos dos ítens que o usuário pediu não serão feitos, ou serão mal detalhados.
+Métodos ágeis acreditam que a equipe aprende e melhora o produto ao longo do tempo. É por isso que o backlog é detalhado aos poucos, conforme o projeto avança.
+
+1 - Sprint Backlog. Com ele saberemos quais são as funcionalidades priorizadas escolhidas,
+poderemos estimar e entender o que cabe na iteração, 
+e assim começar a trabalhar naquilo que for mais importante ou seja Reunião de no máximo 8 horas de planejamento das
+tarefas de produção a serem executadas
+
+1.1 - Sprint - São as iterações, ou Sprints são ciclos dos projetos, que geralmente têm duração semanal, quinzenal e mensal , cada sprint é planejada detalhadamente antes do seu inicio , e não se planeja tudo no inicio.
 
 1.2 - Sprint planning : É o planejamento de uma iteração. É nele que definimos as histórias que serão feitas ao longo das próximas semanas.
 
 O que são iterações : Iterações são o tempo que a equipe tem para produzir algo de valor para o usuário final. É dentro do tempo da iteração que planejamos, desenvolvemos, revisamos, e melhoramos o processo. Iterações são geralmente curtas (1 a 4 semanas), para que o feedback seja frequente.
 
-Scrum Master - Facilitador do time , um lider Servidor onde ele é o responsavel principal por
-conhecer o projeto , onde ele facilita o trabalho para se ter uma melhor gestão
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Product Owner : Representa o Cliente , Ele que define as funcionalidades e prioriza , ele da feedback de
-todas as partes do projeto. e ele aceita ou nao tudo oq foi feito nas sprints.
+todas as partes do projeto. e ele aceita ou nao tudo oq foi feito nas sprints. cada requisito é priorizado
+e inserido pelo produc owner. e também podem ser repriorizado a qualquer momento e remover também a qualquer momento
+
+- Gromming é utilizado para escolher os intens do backlog que precisam ser preparados para o Owner
+- Owner deve revisar constantemente os itens ja criados anteriormente
+
+Scrum Master - Facilitador do time , um lider Servidor onde ele é o responsavel principal por
+conhecer o projeto , onde ele facilita o trabalho para se ter uma melhor gestão
 
 Time : onde possui todas as pessoas que possuem as skills necessarias para a entrega. A Equipe
 define as tarefas , estima esforço , evolui o processo etc.
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gestão de incertezas : Faz com que trabalhamos de forma iterativa diminuindo os riscos , pois vamos
 tomando as decisiões na medidas que vamos aprendendo
 
 Escopo Flexivel : O Cliente pode mudar escopo ao longo do processo
 
-Entregas rapidas
-
-Mais Qualidades - Os testes nao sao feitos no final e sim continuamente
+Entregas rapidas : Mais Qualidades - Os testes nao sao feitos no final e sim continuamente
 
 Melhor visibiilidade - Para ter uma melhor colaboração da equipe nos quadros de tarefas (kaban) o
 status do processo esta sempre avista para as pessoas , o Time precisa ser unido e não separado !
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-BackLog - É uma lista de funcionalidades , necessidades ou desejos do cliente definido apartir de um documento.
-Cada item do backlog pode ser definido como usa user story , Requisitos Funcionais , Prototipos , Features e Wireframes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1 ° Por que não detalhamos todos os requisitos do nosso Backlog?
-
-R : Porque sabemos que na prática muitos dos ítens que o usuário pediu não serão feitos, ou serão mal detalhados.
-Métodos ágeis acreditam que a equipe aprende e melhora o produto ao longo do tempo. É por isso que o backlog é detalhado aos poucos, conforme o projeto avança.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-ROAD MAP - Quais sao as principais funcionalidades que nós queremos entregar.
+ROAD MAP - Quais sao as principais funcionalidades que nós queremos entregar. é Criado depois do Product backlog
 
 O Road Map consegue nos dar uma visão da direção para onde o produto deve caminhar. ou seja
 Quais são as próximas grandes funcionalidades que vão ser construídas.
@@ -154,10 +161,9 @@ Cada tarefa deverá ser realiza para avançar para a proxima etapa
 3 ° Associa-se nas historias de usuario e determinação da sprint
 4 ° Atribuir os pontos na sprints
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Realease plan - Plano de planejamento do meu projeto ,Apatir do realease começaremos a fazer as sprints , mas só se inicializa uma
-sprint por vez.
+Realease plan - Plano de planejamento do meu projeto ,Apatir do realease começaremos a fazer as sprints , mas só se inicializa uma sprint por vez.
 
 O que é o release planning?
 
@@ -166,8 +172,6 @@ irá utilizar. Uma release é o que entregamos após algumas iterações.
 
 O planejamento de release ajuda o time a enxergar um pouco mais longe. Entretanto, o time sabe que a chance de errar é grande e, por isso, revisa o planejamento constantemente.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Planing Poker - Metodo que avalia a pontuação
-
 
