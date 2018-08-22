@@ -1,0 +1,39 @@
+Passo 1 -     Calcular os UC os pontos não ajustados
+	Avaliar os atores e classificar com
+	base na tabela de complexidade.
+
+	Simples - Se meu ator acessa uma API então ele é Simples nivel 1 :
+	Media - Quando o sistema é externo e acessa um protocologo de redes TCPIP nivel 2 : 
+	Complexo Quando os atores interage com interface grafica : nivel 3 : 3 Atores envolvidos então 3x3
+
+	Web-service - é uma api mas nao interessa a forma com a qual estou trafegando os dados então ele é Simples
+
+
+Classificar e relacionar Passo 2:
+	
+	Simples : - Avaliar os cenarios como : excecao , fluxo alternativo e fluxo principal , voce conta quantos tem
+		    e quais classes seram instanciadas e quais classes seram acessadas.
+		    Se eu tiver 2 Casos de usos simples é so multiplicar Nivel 5 : 2x5
+
+	Medio : - Quando possui de 4 a 7 transacao : Ou seja contar os atores e contar os casos de uso
+
+	Complexo : Quando possui mais de 7 transacao Ou seja contar os atores e contar os casos de uso
+
+	UUCP = Pontos de casos de usos nao ajustados
+	EF
+	TCF
+
+3 - Calcular Fator
+
+	Atribuir os fatores apresentados em uma tabela em uma escala de 0 a 5 e multiplicar
+	Tfator total de multiplicacao feita na tabela 0,01 * tfator + 0,06
+
+4 - Avaliar o fato de ambiente
+
+	Atribuir um valor em uma escala de 0 a 5
+	Totalizar o resultado e gerar o EF
+
+5 - Calcular Total
+	UCP = UUCP * TCF * EF
+	
+
